@@ -1,6 +1,6 @@
-# ORBIAGE — Improving Satellite Anomaly Detection by Accounting for AI Uncertainty
+# ORBIAGE: Improving Satellite Anomaly Detection by Accounting for AI Uncertainty
 
-Reproducible research prototype for the Stardust Challenge.
+Research prototype for the Stardust Challenge.
 
 ## What it tests
 
