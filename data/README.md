@@ -1,0 +1,1 @@
+The benchmark CSV is obtained from https://zenodo.org/records/12588359 (OPS-SAT-AD). Save it here as dataset.csv. This repository does not claim ownership of the third-party telemetry or its licensing.

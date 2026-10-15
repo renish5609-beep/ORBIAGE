@@ -1,0 +1,1 @@
+The original submission package includes print-ready vector PDFs of the plots. Regenerate the alert-budget PNG from run_experiment.py. Figures are not uploaded via the text-only GitHub connector; upload the supplementary figure files separately if desired.

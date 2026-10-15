@@ -1,0 +1,1 @@
+Run `python run_experiment.py --data data/dataset.csv --output results` to regenerate `real_results.csv` and `real_alert_budget.png`. Reported findings are single-split exploratory results, not statistical significance claims.
